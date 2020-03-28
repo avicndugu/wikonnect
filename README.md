@@ -4,9 +4,10 @@ Wikonnect is an open-source e-learning platform that is designed to allow anyone
 
 Getting Started
 --
+The
 The front-end is developed using Ember.js. We recommend [getting started](https://guides.emberjs.com/release/getting-started/quick-start/) with Ember by going through the tutorials.
 
-The back-end is developed using [KoaJS](https://koajs.com/).
+The back-end is developed using [KoaJS](https://koajs.com/). API doc is hosted at [tunapanda.github.io/wikonnect)](https://tunapanda.github.io/wikonnect)
 
 ## Prerequisites
 ### Tech Stack
@@ -30,6 +31,7 @@ Ensure you are installing Node 10 or greater and npm 6 or greater.
 
 ### Set up PostgreSQL
 - [Ubuntu installation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
+- [Fedora installation](https://fedoraproject.org/wiki/PostgreSQL)
 - [OSX installation](https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb)
 - [Windows installation](http://www.postgresqltutorial.com/install-postgresql/)
 
